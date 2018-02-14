@@ -1,0 +1,63 @@
+body{
+	background-color: white;
+	margin: 0;
+}
+header div:first-child{
+	background-color: blue;
+	font-family: arial;
+	color:black;
+	float:left;
+	padding: 4%;
+	width: 38%;
+	
+
+}
+header div:nth-child(2){
+	background-color: green;
+	font-family: arial;
+	color: black;
+	float: left;
+	padding: 4%;
+	width: 45%;
+	
+}
+.clear{clear: both;}
+
+nav{
+	background-color: red;
+
+}
+nav ul{margin: 5px; padding: 0%;}
+nav ul li{
+	list-style: none; float: left; margin: 0.5%;padding: 1%; background-color: yellow;
+
+}
+section div:first-child{
+	background-color: blue;
+	font-family: arial;
+	padding: 4%;
+	width: 25%;
+	float: left;
+}
+section div:nth-child(2){
+	background-color: green;
+	font-family: arial;
+	padding: 4%;
+	width: 58%;
+	float: left;
+}
+
+.clear{clear: both;}
+
+footer{
+	background-color: yellow;
+	font-family: arial;
+	width: 89%;
+	padding: 5%;
+	float: left;
+	margin-top: 0.5%;
+	
+}
+
+
+
